@@ -1,4 +1,4 @@
-package ForLoopMoreExercises;
+package ForLoop.MoreExercises;
 
 import java.util.Scanner;
 
